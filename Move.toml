@@ -1,0 +1,8 @@
+
+[package]
+name = "task_reward_system"
+version = "1.0.0"
+edition = "2024.beta"
+ 
+[addresses]
+task_reward_system = "0x0"
